@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmcs2727
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning algorithm for competitive programming 
+- 🌱 I’m currently learning Next.js
 
 <!---
 kmcs2727/kmcs2727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
